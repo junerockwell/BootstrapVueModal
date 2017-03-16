@@ -1,6 +1,8 @@
-# bootstrap_vue_modal
+# Bootstrap Vue Modal
 
-> A Vue.js project
+> A Vue.js project to demonstrate that Bootstrap CSS Modal works with VueJS 2
+
+This is the result of the tutorial [Make a Modal using Bootstrap CSS and VueJS](http://junerockwell.com/how-to-make-simple-basic-modal-using-bootstrap-css-vuejs-2/)
 
 ## Build Setup
 
